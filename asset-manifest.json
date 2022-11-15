@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/api-Nba/static/css/main.b40e23e7.css",
+    "main.js": "/api-Nba/static/js/main.dc82fc47.js",
+    "index.html": "/api-Nba/index.html",
+    "main.b40e23e7.css.map": "/api-Nba/static/css/main.b40e23e7.css.map",
+    "main.dc82fc47.js.map": "/api-Nba/static/js/main.dc82fc47.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b40e23e7.css",
+    "static/js/main.dc82fc47.js"
+  ]
+}
